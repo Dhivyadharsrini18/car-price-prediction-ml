@@ -143,6 +143,10 @@ Evaluation Metrics
 
 ![Linear Regression](screenshots/linear.png)
 
+## Predict Page
+
+![Home](screenshots/predict.png)
+
 ## Prediction Result
 
 ![Prediction](screenshots/value.png)
